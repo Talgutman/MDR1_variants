@@ -32,7 +32,3 @@ The notebooks MDR1_Code/Splicing_MDR1 and MDR1_Code/Enformer_MDR1 were ran using
 [2] Sabi, R. & Tuller, T. Modelling the Efficiency of Codon–tRNA Interactions Based on Codon Usage Bias. DNA Research 21, 511–526 (2014).
 
 
-
-
-```
-
