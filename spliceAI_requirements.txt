@@ -1,8 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
-_libgcc_mutex=0.1=main
-_openmp_mutex=4.5=1_gnu
 biopython=1.79=py36h8f6f2f9_0
 jupyterlab=3.2.1=pyhd3eb1b0_1
 keras=2.6.0=pypi_0
