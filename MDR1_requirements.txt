@@ -1,0 +1,26 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+_libgcc_mutex=0.1=main
+_openmp_mutex=5.1=1_gnu
+biopython=1.79=pypi_0
+clustalo=1.2.3=0
+json5=0.9.6=pyhd3eb1b0_0
+jupyterlab=3.2.1=pyhd3eb1b0_1
+keras=2.12.0=pyhd8ed1ab_0
+lifelines=0.9.4=py36_0
+matplotlib=3.2.2=1
+numpy=1.19.2=py36h54aff64_0
+pal2nal=14.1=pl5262hdfd78af_2
+pandas=1.1.5=py36ha9443f7_0
+pickle5=0.0.11=py36h27cfd23_0
+pyranges=0.0.117=pyh5e36f6f_0
+python=3.6.13=h12debd9_1
+requests=2.27.1=pyhd3eb1b0_0
+scipy=1.5.4=pypi_0
+statsmodels=0.9.0=py36h3010b51_1000
+tqdm=4.63.0=pyhd8ed1ab_0
+typing-extensions=4.1.1=hd3eb1b0_0
+typing_extensions=4.1.1=pyh06a4308_0
+urllib3=1.26.8=pyhd3eb1b0_0
+viennarna=2.4.13=py36hdbcaa40_2
